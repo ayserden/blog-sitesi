@@ -1,0 +1,253 @@
+/* index css*/
+.ikon {
+    padding: 10px;
+    font-size: 15px;
+    width: 30px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 4px;
+  }
+  
+  .ikon:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+.footer_yazi p{
+   color:#007bb5;
+}
+.ikons {
+    margin-top: 110px;
+    margin-bottom: 110px;
+
+}
+.logom img{
+  height: 250px;
+  width: 370px;
+  margin-bottom: 0px;
+  
+}
+*{
+  box-sizing: border-box;
+ 
+}
+
+/* Style the search field */
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 13px;
+  border: 1px solid #2196F3;
+  float: left;
+  width: 80%;
+  background: white;
+  margin-top: 110px;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 13px;
+  border: 1px solid #2196F3;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+  margin-top: 110px;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.navbar-default{
+  background: rgb(103, 39, 128);
+  color:white;
+}
+.link_renk{ color:white!important}
+a.nav-link:hover,a.nav-link:active{text-decoration: underline;
+
+}
+.yazi{
+  margin-top: 30px;
+}
+.cizgi{border-bottom:2px solid black; }
+.liste{
+  color: black;
+}
+.liste:hover{
+  color: rgb(103, 39, 128);
+}
+.liste img{ 
+  width: 80px;
+  height: auto;
+  float: left;
+  margin-right: 10px;}
+  .okunan_liste ul{
+    list-style: none;
+  padding: 0px;
+  margin: 0px;}
+  .okunan_liste ul li {
+    padding: 5px;
+     display: block;
+      width: 100%;
+      height: 60px;
+      
+      margin: 5px;
+    }
+    .metin img{
+      width: 600px;
+      height: 400px;
+      margin-left: 15px;
+    }
+    .metin a{
+      text-align: center;
+      color: black;
+
+    }
+    .metin a:hover{
+      color: rgb(103, 39, 128);
+    }
+  .btn-default{
+    margin-left: 0px;
+    
+  }
+  .btn-default:hover{
+    background-color: rgb(103, 39, 128);
+    color: white; 
+  }
+  .metin_alt img{
+
+width: 250px;
+      height: 150px;
+      margin-left:0px;
+      margin-top: 20px;
+  }
+  .metin_alt{
+    text-align: center;
+  }
+  .metin_alt a{
+    text-align: center;
+    color: black;
+
+  }
+  .metin_alt a:hover{
+    color: rgb(103, 39, 128);
+  }
+  .ara_resim img{
+    width: 695px;
+    height: 10px;
+   
+  }
+  .kutu{
+    
+      width: 100%;
+      height:400px;
+      margin: 20px auto; 
+      border: double 5px rgb(103, 39, 128);
+      border-radius: 5px;
+      margin-left: 10px;
+     
+  }
+  .mail_bildiri h6{
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .mail_bildiri p{
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  #mail{
+    width: 270px;
+    margin-top: 30px;
+    margin-left: 35px;
+  }
+ #mail_buton{
+   margin-left: 120px;
+   margin-top: 30px;
+   /*color:rgb(103, 39, 128) ;*/
+ }
+.fa-thumbs-o-up{
+ margin-left: 130px;
+ margin-right: 0px;
+}
+.kücük_metin i{
+  margin-right: 5px;
+
+}
+.btn_syf{
+  height: 40px;
+  text-align: center;
+  margin-top: 30px;
+}
+.altkısım{
+  background-color:rgb(103, 39, 128); 
+  height: 200px;
+  color:white;
+  margin-top: 100px;
+}
+.acıklama{
+  width: 300px;
+  margin-left: 300px;
+
+}
+.acıklama p{
+  margin-left:200px; 
+ 
+}
+.acıklama h6{
+  margin-top: 50px;
+}
+.footer_medya{
+  margin-left: 900px;
+}
+.gif_foto a{
+  height: 50px;
+  width: 30px;
+}
+.icerik_medya{
+  text-align: center;
+}
+
+ 
+    
+
+
